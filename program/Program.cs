@@ -15,7 +15,7 @@ namespace Program
         }
         public static int Times(int one, int two)
         {
-            return one * two;
+            return one * two; //wagwam
         }
     }
 }
