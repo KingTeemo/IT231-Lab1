@@ -4,7 +4,10 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Sadly, no counter for the Jigma");
+            Console.WriteLine("Enter some numbers:\n");
+            int one = int.Parse(Console.ReadLine());
+            Console.Write("\n");
+            int two = int.Parse(Console.ReadLine());
         }
     }
 }
